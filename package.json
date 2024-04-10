@@ -1,7 +1,7 @@
 {
   "name": "@effect/markdown-toc",
   "description": "Generate a markdown TOC (table of contents) with Remarkable.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "packageManager": "pnpm@8.15.1",
   "homepage": "https://github.com/jonschlinkert/markdown-toc",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
